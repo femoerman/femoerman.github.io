@@ -10,7 +10,7 @@
 		
 			<item>
 				<title>Play Audio &amp; Video with media&amp;shy;element.js</title>
-				<link>http://localhost:4000/home/feeling-responsive/design/mediaelement_js/</link>
+				<link>http://localhost:4000/home/design/mediaelement_js/</link>
 				<pubDate>Thu, 15 Oct 2015 00:00:00 +0100</pubDate>
 				<description>&lt;p&gt;&lt;a href=&quot;http://mediaelementjs.com/&quot;&gt;mediaelement.js&lt;/a&gt; is like magic. It’s browser and device support is perfect. To activate the video or audio player just set the following variable in front matter to &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;true&lt;/code&gt;.&lt;/p&gt;
 
@@ -42,66 +42,12 @@
 &lt;p class=&quot;t30 button radius&quot;&gt;&lt;a href=&quot;https://archive.org/details/music_from_all_around_the_world&quot;&gt;Download Compilation ›&lt;/a&gt;&lt;/p&gt;
 
 </description>
-				<guid isPermaLink="true">http://localhost:4000/home/feeling-responsive/design/mediaelement_js/</guid>
-			</item>
-		
-			<item>
-				<title>Play Audio &amp; Video with media&amp;shy;element.js</title>
-				<link>http://localhost:4000/home/design/mediaelement_js/</link>
-				<pubDate>Thu, 15 Oct 2015 00:00:00 +0100</pubDate>
-				<description>[mediaelement.js][1] is like magic. It&apos;s browser and device support is perfect. To activate the video or audio player just set the following variable in front matter to `true`.
-
-~~~
-mediaplayer: true
-~~~
-
-To use the player just use some HTML5-magic like...
-
-{% highlight html %}
-&lt;audio src=&quot;http://path-to-file.com/music.mp3&quot; type=&quot;audio/mp3&quot; controls=&quot;controls&quot;&gt;&lt;/audio&gt;
-{% endhighlight %}
-
-All possible functions and how to use *mediaelement.js* is well-documented on the [players website][1].
-
-
-
-## »Music From All Around The World«
-
-[»Music From All Around The World«][5] is a compilation curated by Jeannette Corneille and Moritz &quot;mo.&quot; Sauer for [Phlow-Magazine.com][4]. Cover [Artwork designed by Jeannette Corneille][1]. All tracks were released under a [creative commons licence][2].
-
-### B-Ju - »Philly Run«
-
-&lt;audio src=&quot;http://archive.org/download/music_from_all_around_the_world/13._music_from_all_around_the_world_-_b-ju_-_philly_run.mp3&quot; type=&quot;audio/mp3&quot; controls=&quot;controls&quot;&gt;&lt;/audio&gt;
-
-### Comfort Fit - »Freeze The Cut«
-
-&lt;audio src=&quot;http://archive.org/download/music_from_all_around_the_world/05._music_from_all_around_the_world_-_comfort_fit_-_freeze_the_cut_opolopos_emotional_draft_remix.mp3&quot; type=&quot;audio/mp3&quot; controls=&quot;controls&quot;&gt;&lt;/audio&gt;
-
-### The Black Atlantic - »Dandelion«
-
-&lt;audio src=&quot;http://archive.org/download/music_from_all_around_the_world/02._music_from_all_around_the_world_-_the_black_atlantic_-_dandelion.mp3&quot; type=&quot;audio/mp3&quot; controls=&quot;controls&quot;&gt;&lt;/audio&gt;
-
-[Download Compilation ›](https://archive.org/details/music_from_all_around_the_world)
-{: .t30 .button .radius}
-
-
-
- [1]: http://mediaelementjs.com/
- [2]: http://jcorneille.de/
- [3]: www.creativecommons.org/licenses/by-nc-nd/3.0/
- [4]: http://phlow-magazine.com/
- [5]: https://archive.org/details/music_from_all_around_the_world
- [6]: #
- [7]: #
- [8]: #
- [9]: #
- [10]: #</description>
 				<guid isPermaLink="true">http://localhost:4000/home/design/mediaelement_js/</guid>
 			</item>
 		
 			<item>
 				<title>Wonderful Typography</title>
-				<link>http://localhost:4000/home/feeling-responsive/design/typography/typography/</link>
+				<link>http://localhost:4000/home/design/typography/typography/</link>
 				<pubDate>Sun, 16 Aug 2015 00:00:00 +0100</pubDate>
 				<description>&lt;!--more--&gt;
 
@@ -533,401 +479,24 @@ element&lt;/td&gt;
   &lt;/ol&gt;
 &lt;/div&gt;
 </description>
-				<guid isPermaLink="true">http://localhost:4000/home/feeling-responsive/design/typography/typography/</guid>
-			</item>
-		
-			<item>
-				<title>Wonderful Typography</title>
-				<link>http://localhost:4000/home/design/typography/typography/</link>
-				<pubDate>Sun, 16 Aug 2015 00:00:00 +0100</pubDate>
-				<description>&lt;!--more--&gt;
-
-&lt;div class=&quot;row&quot;&gt;
-&lt;div class=&quot;medium-4 medium-push-8 columns&quot; markdown=&quot;1&quot;&gt;
-&lt;div class=&quot;panel radius&quot; markdown=&quot;1&quot;&gt;
-**Table of Contents**
-{: #toc }
-*  TOC
-{:toc}
-&lt;/div&gt;
-&lt;/div&gt;&lt;!-- /.medium-4.columns --&gt;
-
-&lt;div class=&quot;medium-8 medium-pull-4 columns&quot; markdown=&quot;1&quot;&gt;
-
-## Lato – A Sans Serif Typeface Family
-
-[&lt;dfn&gt;Lato&lt;/dfn&gt;][4] is a sans serif typeface family started in the summer of 2010 by Warsaw-based designer Łukasz Dziedzic. »Lato« means »Summer« in Polish. In December 2010 the Lato family was published under the Open Font License by his foundry tyPoland, with support from Google. 
-
-&gt; &lt;span class=&quot;teaser&quot;&gt;I do not think of type as something that should be readable. It should be beautiful.&lt;/span&gt;&lt;cite&gt;[Ed Benguiat][3]&lt;/cite&gt;
-
-In the last ten or so years, during which Łukasz has been designing type, most of his projects were rooted in a particular design task that he needed to solve. With Lato, it was no different. Originally, the family was conceived as a set of corporate fonts for a large client — who in the end decided to go in different stylistic direction, so the family became available for a public release.
-
-When working on Lato, Łukasz tried to carefully balance some potentially conflicting priorities. He wanted to create a typeface that would seem quite “transparent” when used in body text but would display some original traits when used in larger sizes. He used classical proportions (particularly visible in the uppercase) to give the letterforms familiar harmony and elegance. At the same time, he created a sleek sans serif look, which makes evident the fact that Lato was designed in 2010 — even though it does not follow any current trend.
-
-The semi-rounded details of the letters give Lato a feeling of warmth, while the strong structure provides stability and seriousness. “Male and female, serious but friendly. With the feeling of the Summer,” says Łukasz. Learn more at [www.latofonts.com][6]
-
-
-## About Volkhov &amp;lt;h2&amp;gt; 
-
-&lt;dfn&gt;Volkhov&lt;/dfn&gt; is a low-contrast seriffed typeface with a robust character, intended for providing a motivating reading experience. Volkhov was designed by Ivan Petrov.
-
-### Feeling Responsive uses Volkhov for...  &amp;lt;h3&amp;gt;
-
-* &amp;lt;h1&amp;gt;-headings
-* &amp;lt;h2&amp;gt;-headings
-* &amp;lt;h3&amp;gt;-headings
-* &amp;lt;h4&amp;gt;-headings
-* &amp;lt;h5&amp;gt;-headings
-* &amp;lt;h6&amp;gt;-headings
-
-
-#### Heading in Volkhov &amp;lt;h4&amp;gt;
-
-As a four-weight family it is well-suited for complex text environments being economic and legible, contemporary and prominent. Many of its design solutions relate to this purpose: large open counters, rather short descenders, and brutal asymmetric serifs.
-
-##### Heading in Volkhov &amp;lt;h5&amp;gt;
-
-Spacing in Bold is slightly increased compared to the normal weight, because the bold mass is mostly grown inwards. The Italic has a steep angle and a distinctive calligraphically reminiscent character, as a counterpart to the rigorous Regular.
-
-
-
-## Modular Scale
-
-*Feeling Responsive* explores the *2:3 perfect fifth* modular scale created with [www.modular-scale.com][7]. This is the modular scale of  *Feeling Responsive*.
-
-44px @ 1:1.5 – Ideal text size  
-16px @ 1:1.5 – Important number
-
-| Modular Scale
------- | ----- | ----- | -------
-44.000 | 1     | 2.75  | 338.462
-36.000 | 0.818 | 2.25  | 276.923
-29.333 | 0.667 | 1.833 | 225.638
-24.000 | 0.545 | 1.5   | 184.615
-19.555 | 0.444 | 1.222 | 150.423
-16.000 | 0.364 | 1     | 123.077
-
-
-
-## Typographical Elements
-{: .t60 }
-
-Here you&apos;ll find the [complete list of HTML5-Tags][1] and this is how they look like.
-
-### &amp;lt;hr&amp;gt; Horizontal Line
-&lt;hr&gt;
-
-
-### &amp;lt;pre&amp;gt; Displaying Code
-~~~
-&lt;html&gt;
-    &lt;head&gt;
-        &lt;title&gt;Code Blocks&lt;/title&gt;
-    &lt;/head&gt;
-    &lt;body&gt;&lt;/body&gt;
-&lt;/html&gt;
-~~~
-
-
-### &amp;lt;blockquote&amp;gt; Quotation
-&lt;blockquote&gt;Everything happens for a reason. (Britney Spears)&lt;/blockquote&gt;
-
-### &amp;lt;blockquote&amp;gt; and &amp;lt;cite&amp;gt;  together
-
-&gt; Age is an issue of mind over matter. If you don&apos;t mind, it doesn&apos;t matter.
-&lt;cite&gt;Mark Twain&lt;/cite&gt;
-
-
-### &amp;lt;ol&amp;gt; Ordered Lists
-
-1. Ordered List
-2. Second List Item
-3. Third List Item
-    4. Second Level First Item
-    4. Second Level Second Item
-    4. Second Level Third Item
-        5. And a third level First Item
-        5. And a third level Second Item
-        5. And a third level Third Item
-4. Fourth List Item
-5. Fifth List Item
-
-
-### &amp;lt;ul&amp;gt; Unordered Lists
-
-- Unordered List
-- Second List Item
-- Third List Item
-    + Second Level First Item
-    + Second Level Second Item
-    + Second Level Third Item
-        * And a third level First Item
-        * And a third level Second Item
-        * And a third level Third Item
-- Fourth List Item
-- Fifth List Item
-
-### &amp;lt;dl&amp;gt; Definition Lists
-
-Definition List
-:   Bacon ipsum dolor sit amet spare ribs brisket ribeye, andouille sirloin bresaola frankfurter corned beef capicola bacon. Salami beef ribs sirloin, short loin hamburger shoulder t-bone.
-
-Beef ribs jowl swine porchetta
-:   Sirloin tenderloin swine frankfurter pork loin pork capicola ham hock strip steak ribeye beef ribs. Hamburger t-bone ribeye ham prosciutto bresaola.
-
-Pancetta flank sirloin pork
-:   short ribs shankle prosciutto landjaeger. Beef ribs turkey shoulder drumstick. Leberkas pork belly ribeye, bresaola jerky strip steak tenderloin bacon landjaeger short ribs beef ribs. Flank pork chop fatback tail kielbasa filet mignon jowl landjaeger bresaola tongue corned beef biltong.
-:   Landjaeger spare ribs fatback corned beef tenderloin drumstick, swine chicken beef turkey biltong doner tri-tip filet mignon. 
-
-
-### &amp;lt;a&amp;gt;
-[Links][2] make the web exceptional.
-
-
-### &amp;lt;em&amp;gt;
-Let&apos;s *emphasize* how important responsive webdesign is.
-
-
-
-### &amp;lt;strong&amp;gt;
-This looks like **bold** text.
-
-
-
-### &amp;lt;small&amp;gt;
-&lt;small&gt;This is small text.&lt;/small&gt;
-
-
-
-### &amp;lt;s&amp;gt;
-
-It&apos;s nice getting things done. Just strike through &lt;s&gt;finished tasks&lt;/s&gt;.
-
-
-
-### &amp;lt;cite&amp;gt;
-
-&lt;cite&gt;Albert Einstein&lt;/cite&gt;
-
-
-
-### &amp;lt;q&amp;gt;
-
-If you use &amp;lt;q&amp;gt; your text gets &lt;q&gt;automagically quotes around the text passage&lt;/q&gt;.
-
-
-
-### &amp;lt;dfn&amp;gt;
-
-The &amp;lt;dfn&amp;gt; tag is a phrase tag. It defines a &lt;dfn&gt;definition term&lt;/dfn&gt;.
-
-
-
-### &amp;lt;abbr&amp;gt;
-
-The &lt;abbr title=&quot;World Health Organization&quot;&gt;WHO&lt;/abbr&gt; was founded in 1948.
-
-
-
-### &amp;lt;time&amp;gt;
-
-The concert took place on &lt;time datetime=&quot;2001-05-15 19:00&quot;&gt;May 15&lt;/time&gt;.
-
-
-### &amp;lt;code&amp;gt;
-
-Some `code: lucida console` displayed.
-
-
-
-### &amp;lt;var&amp;gt;
-
-The &amp;lt;var&amp;gt; tag is a phrase tag. It defines a &lt;var&gt;variable&lt;/var&gt;.
-
-
-
-### &amp;lt;samp&amp;gt;
-
-Text surrounded by &amp;lt;samp&amp;gt; &lt;samp&gt;looks like this in monospace&lt;/samp&gt;.
-
-
-
-### &amp;lt;kbd&amp;gt;
-
-Copycats enjoy pressing &lt;kbd&gt;CMD&lt;/kbd&gt; + &lt;kbd&gt;c&lt;/kbd&gt; and &lt;kbd&gt;CMD&lt;/kbd&gt; + &lt;kbd&gt;v&lt;/kbd&gt;.
-
-
-
-### &amp;lt;sub&amp;gt;
-
-This text &lt;sub&gt;lays low&lt;/sub&gt; and chills a bit.
-
-
-### &amp;lt;sup&amp;gt;
-
-This text &lt;sup&gt;gets high&lt;/sup&gt; above the clouds.
-
-
-
-### &amp;lt;i&amp;gt;
-
-This looks &lt;i&gt;italic&lt;/i&gt;.
-
-
-
-### &amp;lt;b&amp;gt;
-
-This looks &lt;b&gt;bold&lt;/b&gt;, too.
-
-
-
-### &amp;lt;u&amp;gt;
-
-&lt;div&gt;&lt;p&gt;&lt;u&gt;Underlining&lt;/u&gt; content for emphasize is not the best choice. You can&apos;t read it so well.&lt;/p&gt;&lt;/div&gt;
-
-
-
-### &amp;lt;mark&amp;gt;
-Let&apos;s &lt;mark&gt;mark this hint&lt;/mark&gt; to give you a clue.
-
-
-
-### &amp;lt;br&amp;gt;
-
-Need a break? I give you three!&lt;br&gt;&lt;br&gt;&lt;br&gt;
-
-
-## Footnotes
-
-If you need footnotes for your posts, articles and entries, the Kramdown-Parser [^1] got you covered. How to use footnotes? Read this footnote. [^2]
-
- [1]: https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5/HTML5_element_list
- [2]: http://phlow.de/
- [3]: http://en.wikipedia.org/wiki/Ed_Benguiat
- [4]: https://www.google.com/fonts/specimen/Lato
- [5]: https://www.google.com/fonts/specimen/Volkhov
- [6]: http://www.latofonts.com/
- [7]: https://www.modularscale.com/
-
-
-[^1]: Find out more about Kramdown on &lt;http://kramdown.gettalong.org/&gt;
-[^2]: Kramdown has an excellent documentation of all its features. Check out, on how to [footnotes](http://kramdown.gettalong.org/syntax.html#footnotes).
-
-# &amp;lt;h1&amp;gt;-Heading in Volkhov
-
-## &amp;lt;h2&amp;gt;-Heading in Volkhov
-
-### &amp;lt;h3&amp;gt;-Heading in Volkhov
-
-#### &amp;lt;h4&amp;gt;-Heading in Volkhov
-
-##### &amp;lt;h5&amp;gt;-Heading in Volkhov
-
-###### &amp;lt;h6&amp;gt;-Heading in Volkhov
-
-
-## Tables
-
-Even tables are responsive thanks to foundation. A table can consist of these elements.
-
-&lt;table&gt;
-  &lt;caption&gt;&amp;lt;table&amp;gt; defines an HTML table&lt;/caption&gt;
-  &lt;colgroup&gt;
-    &lt;col span=&quot;1&quot; style=&quot;width: 15%;&quot;&gt;
-    &lt;col span=&quot;1&quot; style=&quot;width: 50%;&quot;&gt;
-    &lt;col span=&quot;1&quot; style=&quot;width: 35%;&quot;&gt;
-  &lt;/colgroup&gt;
-  &lt;thead&gt;
-    &lt;tr&gt;
-      &lt;th&gt;HTML Tag&lt;/th&gt;
-      &lt;th&gt;Defintion&lt;/th&gt;
-      &lt;th&gt;Style&lt;/th&gt;
-    &lt;/tr&gt;
-  &lt;/thead&gt;
-  &lt;tbody&gt;
-    &lt;tr&gt;
-      &lt;td&gt;&amp;lt;caption&amp;gt;&lt;/td&gt;
-      &lt;td&gt;defines a table caption&lt;/td&gt;
-      &lt;td&gt;&lt;code&gt;font-weight: bold;&lt;/code&gt;&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;&amp;lt;colgroup&amp;gt;&lt;/td&gt;
-      &lt;td&gt;specifies a group of one or more columns in a table for 
-formatting. The &amp;lt;colgroup&amp;gt; tag is useful for applying styles to entire columns, instead of repeating the styles for each cell, for each row.&lt;/td&gt;
-      &lt;td&gt;no styling needed&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;&amp;lt;col&amp;gt;&lt;/td&gt;
-      &lt;td&gt;specifies column properties for each column within a `&amp;lt;colgroup&amp;gt;` 
-element&lt;/td&gt;
-      &lt;td&gt;no styling needed&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;&amp;lt;thead&amp;gt;&lt;/td&gt;
-      &lt;td&gt;is used to group header content in an HTML table&lt;/td&gt;
-      &lt;td&gt;&lt;code&gt;font-weight: bold;&lt;/code&gt;&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;&amp;lt;tbody&amp;gt;&lt;/td&gt;
-      &lt;td&gt;is used to group the body content in an HTML table&lt;/td&gt;
-      &lt;td&gt;no styling needed&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;&amp;lt;tr&amp;gt;&lt;/td&gt;
-      &lt;td&gt;defines a row in an HTML table&lt;/td&gt;
-      &lt;td&gt;no styling needed&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;&amp;lt;th&amp;gt;&lt;/td&gt;
-      &lt;td&gt;defines a header cell in an HTML table&lt;/td&gt;
-      &lt;td&gt;&lt;code&gt;font-weight: bold;&lt;/code&gt;&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;&amp;lt;td&amp;gt;&lt;/td&gt;
-      &lt;td&gt;defines a standard cell in an HTML table&lt;/td&gt;
-      &lt;td&gt;&lt;code&gt;font-weight: normal;&lt;/code&gt;&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;&amp;lt;tfoot&amp;gt;&lt;/td&gt;
-      &lt;td&gt;is used to group footer content in an HTML table&lt;/td&gt;
-      &lt;td&gt;no styling needed&lt;/td&gt;
-    &lt;/tr&gt;
-&lt;/table&gt;
-
-&lt;/div&gt;&lt;!-- /.medium-8.columns --&gt;
-&lt;/div&gt;&lt;!-- /.row --&gt;
-
-
-</description>
 				<guid isPermaLink="true">http://localhost:4000/home/design/typography/typography/</guid>
-			</item>
-		
-			<item>
-				<title>Now with Comments!</title>
-				<link>http://localhost:4000/home/feeling-responsive/design/comments/</link>
-				<pubDate>Sat, 15 Aug 2015 00:00:00 +0100</pubDate>
-				<description>&lt;p&gt;If you want to use Disqus-Comments with &lt;em&gt;Feeling Responsive&lt;/em&gt;, just open &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;config.yml&lt;/code&gt; and add your &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;disqus_shortname&lt;/code&gt;. &lt;a href=&quot;https://disqus.com/websites/&quot;&gt;More on how to use Disqus ›&lt;/a&gt;
-&lt;!--more--&gt;&lt;/p&gt;
-
-&lt;p&gt;By default comments are turned off. You can customize the default behaviour in &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;config.yml&lt;/code&gt;. To &lt;strong&gt;turn on comments&lt;/strong&gt; just add &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;comments: true&lt;/code&gt; to front matter using the page layout &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;layout: page&lt;/code&gt;.&lt;/p&gt;
-</description>
-				<guid isPermaLink="true">http://localhost:4000/home/feeling-responsive/design/comments/</guid>
 			</item>
 		
 			<item>
 				<title>Now with Comments!</title>
 				<link>http://localhost:4000/home/design/comments/</link>
 				<pubDate>Sat, 15 Aug 2015 00:00:00 +0100</pubDate>
-				<description>If you want to use Disqus-Comments with *Feeling Responsive*, just open `config.yml` and add your `disqus_shortname`. [More on how to use Disqus ›](https://disqus.com/websites/)
-&lt;!--more--&gt;
+				<description>&lt;p&gt;If you want to use Disqus-Comments with &lt;em&gt;Feeling Responsive&lt;/em&gt;, just open &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;config.yml&lt;/code&gt; and add your &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;disqus_shortname&lt;/code&gt;. &lt;a href=&quot;https://disqus.com/websites/&quot;&gt;More on how to use Disqus ›&lt;/a&gt;
+&lt;!--more--&gt;&lt;/p&gt;
 
-By default comments are turned off. You can customize the default behaviour in `config.yml`. To **turn on comments** just add `comments: true` to front matter using the page layout `layout: page`.</description>
+&lt;p&gt;By default comments are turned off. You can customize the default behaviour in &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;config.yml&lt;/code&gt;. To &lt;strong&gt;turn on comments&lt;/strong&gt; just add &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;comments: true&lt;/code&gt; to front matter using the page layout &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;layout: page&lt;/code&gt;.&lt;/p&gt;
+</description>
 				<guid isPermaLink="true">http://localhost:4000/home/design/comments/</guid>
 			</item>
 		
 			<item>
 				<title>No Header</title>
-				<link>http://localhost:4000/home/feeling-responsive/design/no-header/</link>
+				<link>http://localhost:4000/home/design/no-header/</link>
 				<pubDate>Tue, 11 Aug 2015 00:00:00 +0100</pubDate>
 				<description>&lt;p&gt;&lt;em&gt;Silence is beautiful.&lt;/em&gt; Sometimes you just want no distractions at all. Whether you like the content to speak for itself or enjoy pure typography on a plain background: &lt;em&gt;Feeling Responsive&lt;/em&gt; got you covered. Just say &lt;em&gt;no&lt;/em&gt; like this:
 &lt;!--more--&gt;&lt;/p&gt;
@@ -942,31 +511,17 @@ By default comments are turned off. You can customize the default behaviour in `
   
 
     
-      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/home/feeling-responsive/design/no-header/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;No Header&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-    
       &lt;li&gt;&lt;a href=&quot;http://localhost:4000/home/design/no-header/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;No Header&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-    
-      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/home/feeling-responsive/design/no-header-but-image/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;No Header but Article Image&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
     
       &lt;li&gt;&lt;a href=&quot;http://localhost:4000/home/design/no-header-but-image/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;No Header but Article Image&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
     
-      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/home/feeling-responsive/design/header-with-text/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header With Text&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-    
       &lt;li&gt;&lt;a href=&quot;http://localhost:4000/home/design/header-with-text/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header With Text&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-    
-      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/home/feeling-responsive/design/header-logo-only/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header With Logo Only&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-    
-      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/home/feeling-responsive/design/header-image-color/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header Image With Background Color&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-    
-      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/home/feeling-responsive/design/header-full-width-image/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header with a Full-Width-Image&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
     
       &lt;li&gt;&lt;a href=&quot;http://localhost:4000/home/design/header-logo-only/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header With Logo Only&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
     
       &lt;li&gt;&lt;a href=&quot;http://localhost:4000/home/design/header-image-color/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header Image With Background Color&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
     
       &lt;li&gt;&lt;a href=&quot;http://localhost:4000/home/design/header-full-width-image/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header with a Full-Width-Image&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-    
-      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/home/feeling-responsive/design/header-image-pattern/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header Image With Pattern&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
     
       &lt;li&gt;&lt;a href=&quot;http://localhost:4000/home/design/header-image-pattern/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header Image With Pattern&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
     
@@ -975,32 +530,12 @@ By default comments are turned off. You can customize the default behaviour in `
 &lt;/ul&gt;
 
 </description>
-				<guid isPermaLink="true">http://localhost:4000/home/feeling-responsive/design/no-header/</guid>
-			</item>
-		
-			<item>
-				<title>No Header</title>
-				<link>http://localhost:4000/home/design/no-header/</link>
-				<pubDate>Tue, 11 Aug 2015 00:00:00 +0100</pubDate>
-				<description>*Silence is beautiful.* Sometimes you just want no distractions at all. Whether you like the content to speak for itself or enjoy pure typography on a plain background: *Feeling Responsive* got you covered. Just say *no* like this:
-&lt;!--more--&gt;
-
-~~~
-header: no
-~~~
-
-
-### All Header-Styles
-{: .t60 }
-
-{% include list-posts tag=&apos;header&apos; %}
-</description>
 				<guid isPermaLink="true">http://localhost:4000/home/design/no-header/</guid>
 			</item>
 		
 			<item>
 				<title>No Header but Article Image</title>
-				<link>http://localhost:4000/home/feeling-responsive/design/no-header-but-image/</link>
+				<link>http://localhost:4000/home/design/no-header-but-image/</link>
 				<pubDate>Thu, 12 Mar 2015 00:00:00 +0000</pubDate>
 				<description>&lt;p&gt;First turn of the header with &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;header: no&lt;/code&gt;. Then add an image to with the following code. The caption is optional.
 &lt;!--more--&gt;&lt;/p&gt;
@@ -1019,31 +554,17 @@ image:
   
 
     
-      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/home/feeling-responsive/design/no-header/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;No Header&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-    
       &lt;li&gt;&lt;a href=&quot;http://localhost:4000/home/design/no-header/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;No Header&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-    
-      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/home/feeling-responsive/design/no-header-but-image/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;No Header but Article Image&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
     
       &lt;li&gt;&lt;a href=&quot;http://localhost:4000/home/design/no-header-but-image/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;No Header but Article Image&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
     
-      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/home/feeling-responsive/design/header-with-text/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header With Text&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-    
       &lt;li&gt;&lt;a href=&quot;http://localhost:4000/home/design/header-with-text/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header With Text&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-    
-      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/home/feeling-responsive/design/header-logo-only/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header With Logo Only&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-    
-      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/home/feeling-responsive/design/header-image-color/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header Image With Background Color&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-    
-      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/home/feeling-responsive/design/header-full-width-image/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header with a Full-Width-Image&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
     
       &lt;li&gt;&lt;a href=&quot;http://localhost:4000/home/design/header-logo-only/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header With Logo Only&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
     
       &lt;li&gt;&lt;a href=&quot;http://localhost:4000/home/design/header-image-color/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header Image With Background Color&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
     
       &lt;li&gt;&lt;a href=&quot;http://localhost:4000/home/design/header-full-width-image/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header with a Full-Width-Image&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-    
-      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/home/feeling-responsive/design/header-image-pattern/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header Image With Pattern&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
     
       &lt;li&gt;&lt;a href=&quot;http://localhost:4000/home/design/header-image-pattern/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header Image With Pattern&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
     
@@ -1052,30 +573,224 @@ image:
 &lt;/ul&gt;
 
 </description>
-				<guid isPermaLink="true">http://localhost:4000/home/feeling-responsive/design/no-header-but-image/</guid>
+				<guid isPermaLink="true">http://localhost:4000/home/design/no-header-but-image/</guid>
 			</item>
 		
 			<item>
-				<title>No Header but Article Image</title>
-				<link>http://localhost:4000/home/design/no-header-but-image/</link>
-				<pubDate>Thu, 12 Mar 2015 00:00:00 +0000</pubDate>
-				<description>First turn of the header with `header: no`. Then add an image to with the following code. The caption is optional.
-&lt;!--more--&gt;
+				<title>Header With Text</title>
+				<link>http://localhost:4000/home/design/header-with-text/</link>
+				<pubDate>Tue, 10 Feb 2015 00:00:00 +0000</pubDate>
+				<description>&lt;!--more--&gt;
 
-~~~
-header: no
-image:
-    title: unsplash_eagle.jpg
+&lt;h2 id=&quot;front-matter-code&quot;&gt;Front Matter Code&lt;/h2&gt;
+
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;header:
+    title: header with text
+    image_fullwidth: unsplash_brooklyn-bridge_header.jpg
     caption: This is a caption for the header image with link
     caption_url: https://unsplash.com/
-~~~
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
 
+&lt;h3 class=&quot;t60&quot; id=&quot;all-header-styles&quot;&gt;All Header-Styles&lt;/h3&gt;
 
-### All Header-Styles
-{: .t60 }
+&lt;ul class=&quot;side-nav&quot;&gt;
 
-{% include list-posts tag=&apos;header&apos; %}</description>
-				<guid isPermaLink="true">http://localhost:4000/home/design/no-header-but-image/</guid>
+  
+
+    
+      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/home/design/no-header/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;No Header&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/home/design/no-header-but-image/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;No Header but Article Image&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/home/design/header-with-text/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header With Text&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/home/design/header-logo-only/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header With Logo Only&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/home/design/header-image-color/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header Image With Background Color&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/home/design/header-full-width-image/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header with a Full-Width-Image&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/home/design/header-image-pattern/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header Image With Pattern&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+
+  
+&lt;/ul&gt;
+
+</description>
+				<guid isPermaLink="true">http://localhost:4000/home/design/header-with-text/</guid>
+			</item>
+		
+			<item>
+				<title>Header With Logo Only</title>
+				<link>http://localhost:4000/home/design/header-logo-only/</link>
+				<pubDate>Thu, 09 Oct 2014 00:00:00 +0100</pubDate>
+				<description>&lt;p&gt;No front matter code needed.
+&lt;!--more--&gt;&lt;/p&gt;
+
+&lt;h3 class=&quot;t60&quot; id=&quot;all-header-styles&quot;&gt;All Header-Styles&lt;/h3&gt;
+
+&lt;ul class=&quot;side-nav&quot;&gt;
+
+  
+
+    
+      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/home/design/no-header/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;No Header&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/home/design/no-header-but-image/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;No Header but Article Image&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/home/design/header-with-text/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header With Text&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/home/design/header-logo-only/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header With Logo Only&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/home/design/header-image-color/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header Image With Background Color&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/home/design/header-full-width-image/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header with a Full-Width-Image&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/home/design/header-image-pattern/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header Image With Pattern&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+
+  
+&lt;/ul&gt;
+
+</description>
+				<guid isPermaLink="true">http://localhost:4000/home/design/header-logo-only/</guid>
+			</item>
+		
+			<item>
+				<title>Header Image With Background Color</title>
+				<link>http://localhost:4000/home/design/header-image-color/</link>
+				<pubDate>Thu, 09 Oct 2014 00:00:00 +0100</pubDate>
+				<description>&lt;p&gt;It’s so easy to do. Just define in front matter an image and a background color. Instead of a color you can also use a pattern image. Have a look at the &lt;a href=&quot;http://localhost:4000/home/design/header-image-pattern/&quot;&gt;example with a background pattern&lt;/a&gt;.
+&lt;!--more--&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;front-matter-code&quot;&gt;Front Matter Code&lt;/h2&gt;
+
+&lt;div class=&quot;alert-box alert &quot;&gt;&lt;p&gt;WARNING: To make this work the value of &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;background-color&lt;/code&gt; must be inbetween quotes.&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;header:
+    image: &quot;header_unsplash_2-970x.jpg&quot;
+    background-color: &quot;#fabb00&quot;
+    caption: This is a caption for the header image with link
+    caption_url: https://unsplash.com/
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;h3 class=&quot;t60&quot; id=&quot;all-header-styles&quot;&gt;All Header-Styles&lt;/h3&gt;
+
+&lt;ul class=&quot;side-nav&quot;&gt;
+
+  
+
+    
+      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/home/design/no-header/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;No Header&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/home/design/no-header-but-image/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;No Header but Article Image&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/home/design/header-with-text/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header With Text&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/home/design/header-logo-only/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header With Logo Only&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/home/design/header-image-color/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header Image With Background Color&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/home/design/header-full-width-image/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header with a Full-Width-Image&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/home/design/header-image-pattern/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header Image With Pattern&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+
+  
+&lt;/ul&gt;
+
+</description>
+				<guid isPermaLink="true">http://localhost:4000/home/design/header-image-color/</guid>
+			</item>
+		
+			<item>
+				<title>Header with a Full-Width-Image</title>
+				<link>http://localhost:4000/home/design/header-full-width-image/</link>
+				<pubDate>Thu, 09 Oct 2014 00:00:00 +0100</pubDate>
+				<description>&lt;p&gt;It’s so easy to do. Just define in front matter your image.
+&lt;!--more--&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;front-matter-code&quot;&gt;Front Matter Code&lt;/h2&gt;
+
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;header:
+    image_fullwidth: &quot;unsplash_brooklyn-bridge_header.jpg&quot;
+    caption: This is a caption for the header image with link
+    caption_url: https://unsplash.com/
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;h3 class=&quot;t60&quot; id=&quot;all-header-styles&quot;&gt;All Header-Styles&lt;/h3&gt;
+
+&lt;ul class=&quot;side-nav&quot;&gt;
+
+  
+
+    
+      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/home/design/no-header/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;No Header&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/home/design/no-header-but-image/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;No Header but Article Image&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/home/design/header-with-text/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header With Text&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/home/design/header-logo-only/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header With Logo Only&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/home/design/header-image-color/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header Image With Background Color&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/home/design/header-full-width-image/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header with a Full-Width-Image&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/home/design/header-image-pattern/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header Image With Pattern&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+
+  
+&lt;/ul&gt;
+
+</description>
+				<guid isPermaLink="true">http://localhost:4000/home/design/header-full-width-image/</guid>
+			</item>
+		
+			<item>
+				<title>Header Image With Pattern</title>
+				<link>http://localhost:4000/home/design/header-image-pattern/</link>
+				<pubDate>Wed, 08 Oct 2014 00:00:00 +0100</pubDate>
+				<description>&lt;p&gt;It’s so easy to do. Just define in front matter an image and a pattern image. Instead of a pattern you can also use a color. Have a look at the &lt;a href=&quot;http://localhost:4000/home/design/header-image-color/&quot;&gt;example with a background color&lt;/a&gt;.
+&lt;!--more--&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;front-matter-code&quot;&gt;Front Matter Code&lt;/h2&gt;
+
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;header:
+    image:  &quot;header_unsplash_2-970x.jpg&quot;
+    pattern:  &quot;pattern_concrete.jpg&quot;
+    caption: This is a caption for the header image with link
+    caption_url: https://unsplash.com/
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;h3 class=&quot;t60&quot; id=&quot;all-header-styles&quot;&gt;All Header-Styles&lt;/h3&gt;
+
+&lt;ul class=&quot;side-nav&quot;&gt;
+
+  
+
+    
+      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/home/design/no-header/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;No Header&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/home/design/no-header-but-image/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;No Header but Article Image&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/home/design/header-with-text/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header With Text&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/home/design/header-logo-only/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header With Logo Only&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/home/design/header-image-color/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header Image With Background Color&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/home/design/header-full-width-image/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header with a Full-Width-Image&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/home/design/header-image-pattern/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header Image With Pattern&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+
+  
+&lt;/ul&gt;
+
+</description>
+				<guid isPermaLink="true">http://localhost:4000/home/design/header-image-pattern/</guid>
 			</item>
 		
 	</channel>
